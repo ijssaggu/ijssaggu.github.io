@@ -7,8 +7,6 @@ header:
 	image: "/images/header.jpg"
 ---
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
