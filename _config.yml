@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Resume"
-      icon: "fab fa-file"
+      icon: "fa fa-file-pdf-o"
       url: "https://drive.google.com/file/d/1WdAKEHdre5GQUqk3Rh4rjpZtQuqSVt66/view?usp=sharing"
 
 # Site Footer
