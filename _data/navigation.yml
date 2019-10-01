@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Projects"
+    url: /projects/
   - title: "Resume"
     url: /files/Resume_Inderjot_Saggu.pdf
   # - title: "About"
