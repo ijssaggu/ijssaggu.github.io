@@ -134,7 +134,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Resume"
+    - label: " Resume"
       icon: "fas fa-file-pdf"
       url: "https://drive.google.com/file/d/1WdAKEHdre5GQUqk3Rh4rjpZtQuqSVt66/view?usp=sharing"
 
