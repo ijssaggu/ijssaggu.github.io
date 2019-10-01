@@ -124,7 +124,7 @@ author:
       # url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/inderjot-saggu-1394b312a/"
+      url: "https://www.linkedin.com/in/inderjot-saggu/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,6 +134,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Resume"
+      icon: "fab fa-file"
+      url: "https://drive.google.com/file/d/1WdAKEHdre5GQUqk3Rh4rjpZtQuqSVt66/view?usp=sharing"
 
 # Site Footer
 footer:
