@@ -11,4 +11,4 @@ mathjax: "true"
 <img src="{{ site.url }}{{ site.baseurl }}/images/normal.jpg" alt="normal-light">
 
 Trained a probabilistic color model based on logistic regression on image data and used it to segment unseen images, detect a blue barrel, and draw a bounding box around it. 
-Once the color regions are identified, shape statistics and other higher-level features were used to define "barrelness" and decide where the barrel is located in the images.
+Once the color regions were identified, shape statistics and other higher-level features were used to define "barrelness" and decide where the barrel is located in the images.
