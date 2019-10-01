@@ -6,7 +6,7 @@ excerpt: "Analysis of Pet profiles"
 mathjax: "true"
 ---
 
-[Github](https://github.com/ijssaggu/Background-Subtraction-GMM), [Slides](/files/ECE143_Slides.pdf)
+[Github](https://github.com/ijssaggu/ECE-143-PetFinder.my), [Slides](/files/ECE143_Slides.pdf)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/petfinder.jpg" alt="petfinder">
 
