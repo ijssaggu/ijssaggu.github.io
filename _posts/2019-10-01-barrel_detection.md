@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Color Model for Barrel Segmentation"
+title: "Probabilistic Color Model for Segmentation"
 date: 2019-10-01
 tags: [machine learning]
 excerpt: "Logistic regression and shape heuristics for segmentation"
