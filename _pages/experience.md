@@ -2,7 +2,7 @@
 title: "Work Experience"
 permalink: /experience/
 header:
-  image: "/images/IIT.jpg"
+  image: "/images/experience.jpg"
 ---
 
 **Machine Learning Intern**, Mitek Systems Inc. [*June 2019 - September 2019*]
@@ -12,7 +12,7 @@ I designed and developed an improved image matcher tool that significantly impro
 
 **Graduate Researcher**, University of California, San Deigo [*November 2018 - Present*]
 
-I am working on problem of collaborative autonomous perception. Given two or multiple agents equipped with cameras, how can we effectively combine information from the two views for improved scene-understanding, 3D geometry estimation and perception. [Details]()
+I am working on problem of collaborative autonomous perception. Given two or multiple agents equipped with cameras, how can we effectively combine information from the two views for improved scene-understanding, 3D geometry estimation and perception. [Lab Webpage](https://wcsng.github.io/wcsng/)
 {: .notice--primary}
 
 **Graduate Teaching Assistant**, ECE285: Machine Learning for Image Processing [*Spring 2019*]
