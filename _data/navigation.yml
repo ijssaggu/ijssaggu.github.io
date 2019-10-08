@@ -2,14 +2,14 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Resume"
-    url: /files/Resume_Inderjot_Saggu.pdf
   - title: "Experience"
     url: /experience/
+  - title: "Projects"
+    url: /projects/
   - title: "Courses"
     url: /courses/
+  - title: "Resume"
+    url: /files/Resume_Inderjot_Saggu.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
