@@ -6,6 +6,10 @@ main:
     url: /projects/
   - title: "Resume"
     url: /files/Resume_Inderjot_Saggu.pdf
+  - title: "Experience"
+    url: /experience/
+  - title: "Courses"
+    url: /courses/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
