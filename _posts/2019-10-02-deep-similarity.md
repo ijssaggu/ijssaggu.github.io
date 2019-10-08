@@ -1,7 +1,7 @@
 ---
 title: "Deep Siamese CNN for Learning Visual Similarity"
 date: 2019-10-01
-tags: [machine learning, deep learning ,computer vision]
+tags: [projects]
 excerpt: "Learning a pose-invariant feature space for visual search"
 mathjax: "true"
 ---
