@@ -18,4 +18,14 @@ I am working on problem of collaborative autonomous perception. Given two or mul
 **Graduate Teaching Assistant**, ECE285: Machine Learning for Image Processing [*Spring 2019*]
 
 Teaching Assistant for a graduate course that covered deep learning concepts and its applications in computer vision. Helped students with assignments in PyTorch. Designed a project on Style Transfer using Gatys original paper, Fei Fei Li's Real-time Style Transfer and Style Transfer using Cycle-GAN  [Course Website](https://www.charles-deledalle.fr/pages/teaching_ucsd_ece285_mlip_s2019.php)
-{: .notice--info}
+{: .notice--primary}
+
+**Research Intern**, SINAPSE, National University of Singapore [*May 2017 - August 2017*]
+
+I spent Summer'17 as a Research Intern in the Neuromorphic Engineering and Robotics Group at the [National University of Singapore](http://www.nus.edu.sg/)(NUS). I designed and fabricated a high density desktop tactile array (25600 taxels on 8′′x10′′) and used event-based encoding of pressure signals for high speed (5.2 kHz) and sparse acquisition. This neuromorphic representation of touch is well suited to rapid identification of critical contact events, making it suitable for dexterous manipulation in robotic and prosthetic applications.
+{: .notice--success}
+
+**Undergraduate Teaching Assistant**, ELL304: Analog ELectronic Circuits [*Fall 2017*]
+
+Designed lab experiments that tested the fundamental concepts of building analog circuits and the challenges  faced in practical implementation.
+{: .notice--primary}
