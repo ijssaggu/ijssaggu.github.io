@@ -27,3 +27,12 @@ Every quarter I take a course that has very little overlap with my major field o
 - ECE 285 : Machine Learning for Image Processing [[Course Website](https://www.charles-deledalle.fr/pages/teaching_ucsd_ece285_mlip_s2019.php)]
 - ECE 203 : Biomedical Integrated Circuits
 
+I developed interest in Machine Learning and Computer Vision during my undergraduate degree. I also dabbled in Neuroscience for a bit trying to understand how the brain works and how the neural activity and interactions lead to intelligence.
+
+## Selected Courses from Undergraduate Coursework
+
+- ELL409: Machine Intelligence and Learning [[Course Website](http://web.iitd.ac.in/~sumeet/ell409.html)]
+- ELL881: Deep Learning (Graduate course)
+- COL780: Computer Vision (Graduate course) [[Course Website](http://www.cse.iitd.ernet.in/~suban/vision/index.html)]
+- ELL880: Neuroengineering (Graduate course)
+- ELL890: Computational Neuroscience (Graduate course)
