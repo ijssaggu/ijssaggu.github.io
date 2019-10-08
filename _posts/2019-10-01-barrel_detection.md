@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic Color Model for Segmentation"
 date: 2019-10-01
-tags: [machine learning]
+tags: [projects]
 excerpt: "Logistic regression and shape heuristics for segmentation"
 mathjax: "true"
 ---

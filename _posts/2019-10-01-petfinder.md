@@ -1,7 +1,7 @@
 ---
 title: "Petfinder.my: Improving Pet Adoption Rates"
 date: 2019-10-01
-tags: [data science, machine learning]
+tags: [projects]
 excerpt: "Exploratory Data Analysis of Pet profiles"
 mathjax: "true"
 ---
